@@ -1,0 +1,5 @@
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Data\bin\Debug\WindowsFormsSolution.Data.dll
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Data\bin\Debug\WindowsFormsSolution.Data.pdb
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Data\obj\Debug\WindowsFormsSolution.Data.csprojResolveAssemblyReference.cache
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Data\obj\Debug\WindowsFormsSolution.Data.dll
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Data\obj\Debug\WindowsFormsSolution.Data.pdb

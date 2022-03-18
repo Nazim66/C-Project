@@ -1,0 +1,12 @@
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\WindowsFormsSolution.Applicaton.exe.config
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\WindowsFormsSolution.Applicaton.exe
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\WindowsFormsSolution.Applicaton.pdb
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\MetroFramework.Design.dll
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\MetroFramework.dll
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\bin\Debug\MetroFramework.Fonts.dll
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.csprojResolveAssemblyReference.cache
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.FormPhysio.resources
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.Properties.Resources.resources
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.csproj.GenerateResource.Cache
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.exe
+G:\Computer Engineering Courses\Object Oriented Programming-2(C#)\LayerArtitecture\WindowsFormsSolution.Applicaton\WindowsFormsSolution.Applicaton\obj\Debug\WindowsFormsSolution.Applicaton.pdb
